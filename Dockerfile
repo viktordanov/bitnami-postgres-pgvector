@@ -1,4 +1,4 @@
-FROM bitnami/postgresql:16.2.0-debian-11-r0
+FROM bitnami/postgresql:16.6.0-debian-12-r2
 
 
 # install_packages git build-essential
